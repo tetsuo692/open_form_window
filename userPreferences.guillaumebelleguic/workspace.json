@@ -2,7 +2,7 @@
 	"editors": [
 		{
 			"type": "method",
-			"id": 2147483646,
+			"id": 2147483647,
 			"codeDescriptor": {
 				"type": 1,
 				"methodName": "zzz_test_1"
@@ -13,12 +13,12 @@
 		},
 		{
 			"type": "form",
-			"id": 486,
+			"id": 220,
 			"formName": "Formulaire1"
 		},
 		{
 			"type": "method",
-			"id": 2147483647,
+			"id": 2147483646,
 			"codeDescriptor": {
 				"type": 1,
 				"methodName": "zzz_trace"
